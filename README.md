@@ -16,7 +16,8 @@ You can get acess to my blog by the following website. I strongly suggest you co
 
 [(My CudaNotesStudying Blog](https://blog.csdn.net/qq_40514113/article/details/130752967?spm=1001.2014.3001.5502)
 
-![image-20230731194138632](C:\Users\10305\AppData\Roaming\Typora\typora-user-images\image-20230731194138632.png)
+![image](https://github.com/QinghongShao-sqh/CUDA_Study/assets/76911096/54580c86-8e6e-454f-af47-efd269f2299b)
+
 
 
 
