@@ -1,0 +1,10 @@
+﻿  Skipping CUDA source file add2gpu.cu (excluded from build).
+  Skipping CUDA source file reduce2gpu.cu (excluded from build).
+  Skipping CUDA source file reduce1cpu.cu (excluded from build).
+  Compiling CUDA source file reduce_atomic.cu...
+  
+  P:\VSProCuda\Project2\Project2\Project2>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "P:\VisualStudio\VSIDE\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\reduce_atomic.cu.obj "P:\VSProCuda\Project2\Project2\Project2\reduce_atomic.cu" 
+  reduce_atomic.cu
+P:\VSProCuda\Project2\Project2\Project2\reduce_atomic.cu(43): warning C4305: “=”: 从“double”到“real”截断
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+  Project2.vcxproj -> P:\VSProCuda\Project2\Project2\x64\Debug\Project2.exe
